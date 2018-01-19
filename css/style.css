@@ -1,8 +1,13 @@
 *{
   font-family: Verdana;
   text-align: center;
+  background-color: black;
+
 }
 
+.header{
+  color: white;
+}
 h1{
   font-size: 50px;
   font-weight: normal;
@@ -12,4 +17,21 @@ h1{
 .link{
   color: aquamarine;
   font-size: 16px;
+  text-decoration: underline;
+}
+
+h2{
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.introduction{
+  font-size: 21px;
+  color: grey;
+}
+
+.caption{
+  text-align: right;
+  font-size: 21px;
+  color: grey;
 }
